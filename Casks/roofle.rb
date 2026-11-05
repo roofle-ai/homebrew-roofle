@@ -1,6 +1,6 @@
 cask "roofle" do
-  version "1.0.0-beta"
-  sha256 "21720b5a5cb7e98dbb5127e4052f1e2c8428798b7a76db86558f442d7c432e48"
+  version "1.0.0"
+  sha256 "1d36a171deab4fd78cb1f9b16cdab20d1eb4a0ffcfa1595375b4ba712925adb0"
 
   url "https://github.com/roofle-ai/roofle/releases/download/v#{version}/Roofle_#{version}_aarch64.dmg"
   name "Roofle"
